@@ -25,7 +25,7 @@
 
   
 </div>
-<div class="w-[100vw] h-[786px] left-0 top-[1829px]  md:hidden mt-[112px]  bg-black">
+<div class="w-[100vw] h-[786px] left-0 top-[1829px]  md:hidden mt-[112px] lg:hidden  bg-black">
     <div class="w-[351px] h-[786px]  relative mx-auto  ">
       <div class="pb-[13px] left-0 top-[60px]  flex-col  justify-start items-start gap-[9.56px] inline-flex">
         <div class="pr-[111px] justify-start items-start inline-flex">
@@ -54,7 +54,7 @@
   </div>
 
 
-<div class="w-[1024px] overflow-hidden h-[2024.53px] relative bg-white mx-auto text-left hidden md:block">
+<div class="w-[1024px] overflow-hidden h-[2024.53px] lg:hidden relative bg-white mx-auto text-left hidden md:block">
   <div class="w-[310.14px] h-[47px] left-[288px] top-[177px] absolute text-black text-[35px] font-bold leading-9">Ecommerce Seller</div>
   <div class="w-[800px] h-[1855.14px] left-[112px] top-[125px] absolute">
     <img class="w-[799.97px] h-[591.14px] left-[0.02px] top-[160px] absolute" src="../../img/workersmd.png" />
@@ -75,7 +75,31 @@
   </div>
   
 </div>
-<div class="w-[100vw] h-[786px]  hidden md:block   bg-black">
+<div class="w-[100vw] h-[786px]  hidden md:block lg:hidden     bg-black">
+    
+  </div>
+
+
+  <div class="w-[800px] h-[1854.14px] hidden lg:block mx-auto relative">
+  <img class="w-[799.97px] h-[591.14px] left-[0.02px] top-[160px] absolute" src="../../img/workerslg.png" />
+  <div class="w-[800px] h-[1126px] left-0 top-[746.14px] absolute">
+    <div class="w-[740.58px] left-0 top-[40px] absolute text-stone-500 text-xl font-normal leading-[30px]">On February of 2021, I and many others were laid off as part of a reduction of force measure at Cognizant Softvision. It was a gut punch and one of the most difficult experience I have ever gone through.</div>
+    <div class="w-[791.09px] left-0 top-[170px] absolute text-stone-500 text-xl font-normal leading-[30px]">After a few weeks of self-reflection, I was determined to make the best I could out of the situation.</div>
+    <div class="w-[789.75px] left-0 top-[270px] absolute text-stone-500 text-[19px] font-normal leading-[30px]">I always found ecommerce extremely fascinating. The buzz of making balancing the needs of customer, ensuring constant supplies, and working within a platform. I saw that there was a huge need by the public for access to cheap and affordable personal protective equipment. I decided to jump into eBay as a full time seller of affordable PPE.</div>
+    <div class="w-[782.09px] left-0 top-[430px] absolute text-stone-500 text-xl font-normal leading-[30px]">Over just the course of five months I sold $35,000 worth of PPE to consumers world wide. But for me, it was never about the money. It was always about learning about how ecommerce worked and helping my local community. I ended up donating around $20,000 worth of goods to local first responders and hospitals. The image above is a picture from nurses I donated some masks to.</div>
+    <div class="pr-[576px] left-0 top-[690px] absolute justify-start items-start inline-flex">
+      <div class="text-black text-[26px] font-bold leading-10">KEY TAKEAWAYS</div>
+    </div>
+    <div class="pl-10 pr-[12.17px] pb-[15px] left-0 top-[755px] absolute flex-col justify-start items-start gap-[15px] inline-flex">
+      <div class="w-[743.15px] text-stone-500 text-xl font-normal leading-9">Customer satisfaction is difficult to maintain but extremely rewarding. It feels great to go out of my way to ensure that a customer is happy with their purchase. Even if I have to issue refunds or take a hit on inventor</div>
+      <div class="w-[747.83px] text-stone-500 text-xl font-normal leading-9">Procuring supplies, especially personal protective equipment, requires a significant amount of understanding laws and regulations</div>
+      <div class="text-stone-500 text-[19px] font-normal leading-9">Always monitor the costs of business. Ecommerce platform fees quickly add up</div>
+    </div>
+  </div>
+</div>
+
+
+<div class="w-[100vw] h-[786px]  hidden lg:block     bg-black">
     
   </div>
 </template>

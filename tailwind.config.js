@@ -8,7 +8,7 @@ export default {
     screens: {
       sm: '480px',
       md: '1024px',
-      lg: '1920px'
+      lg: '1900px'
     },
     extend: {
       colors: {

@@ -100,7 +100,7 @@
 
 
 <!-- md -->
-<div class="w-[1024px] overflow-hidden h-[2732.39px] relative bg-white mx-auto hidden md:block ">
+<div class="w-[1024px] overflow-hidden h-[2732.39px] relative bg-white mx-auto lg:hidden hidden md:block ">
   <div class="w-[870.39px] h-[1795px] left-[76.80px] top-[148px] absolute">
     <div class="w-[870.39px] h-[400px] left-0 top-0 absolute">
       <div class="w-[495.53px] h-[400px] left-0 top-0 absolute">
@@ -166,7 +166,78 @@
   
 
 </div>
-<div class="w-[100vw] h-[744.39px] left-0 top-[2088px] absolute  hidden md:block bg-black">
+
+
+
+
+
+<div class="w-[1000px] h-[1795px] mt-20 mx-auto relative hidden lg:block">
+  <div class="w-[1000px] h-[400px] left-0 top-0 absolute">
+    <div class="w-[560.58px] h-[400px] left-0 top-0 absolute border border-white">
+      <img class="w-[554.58px] h-[394px] left-[3px] top-[3px] absolute border-l border-r border-t border-b border-white" src="../../img/workinmd.png" />
+    </div>
+    <div class="w-[569.42px] h-[235.80px] left-[430.58px] top-[82.09px] absolute bg-black">
+      <div class="w-[244.29px] h-[23px] left-[40px] top-[37px] absolute text-purple-500 text-lg font-bold uppercase leading-[18px] tracking-[4px]">Rouse Appraisals</div>
+      <div class="w-[421.70px] left-[40px] top-[74.80px] absolute text-white text-[35px] font-bold leading-9">Construction Equipment Analysis and Reporting</div>
+      <div class="w-[519.42px] h-[18px] left-[40px] top-[177.80px] absolute">
+        <div class="w-[103.79px] h-[23px] left-0 top-[-3px] absolute text-white text-[17px] font-normal leading-[18px]">View Project</div>
+        <div class="left-[114.09px] top-[2.50px] absolute justify-start items-start inline-flex">
+          <div class="w-3.5 h-[13px] relative"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="w-[1000px] h-[400px] left-0 top-[465px] absolute">
+    <div class="w-[560.58px] h-[400px] left-0 top-0 absolute border border-white">
+      <img class="w-[554.58px] h-[394px] left-[3px] top-[3px] absolute border-l border-r border-t border-b border-white" src="../../img/workersmd.png" />
+    </div>
+    <div class="w-[569.42px] h-[235.80px] left-[430.58px] top-[82.09px] absolute bg-black">
+      <div class="w-[253.62px] h-[23px] left-[40px] top-[37px] absolute text-purple-500 text-lg font-bold uppercase leading-[18px] tracking-[4px]">Ecommerce Seller</div>
+      <div class="w-[296.23px] h-[83px] left-[40px] top-[69.80px] absolute text-white text-[35px] font-bold leading-9">Supporting Local Communities</div>
+      <div class="w-[519.42px] h-[18px] left-[40px] top-[177.80px] absolute">
+        <div class="w-[103.79px] h-[23px] left-0 top-[-3px] absolute text-white text-[17px] font-normal leading-[18px]">View Project</div>
+        <div class="left-[114.09px] top-[2.50px] absolute justify-start items-start inline-flex">
+          <div class="w-3.5 h-[13px] relative"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="w-[1000px] h-[400px] left-0 top-[930px] absolute">
+    <div class="w-[560.58px] h-[400px] left-0 top-0 absolute border border-white">
+      <img class="w-[554.58px] h-[394px] left-[3px] top-[3px] absolute border-l border-r border-t border-b border-white" src="../../img/housemd.png" />
+    </div>
+    <div class="w-[569.42px] h-[199.80px] left-[430.58px] top-[100.09px] absolute bg-black">
+      <div class="w-[191.11px] h-[23px] left-[40px] top-[37px] absolute text-purple-500 text-lg font-bold uppercase leading-[18px] tracking-[4px]">MH Advantage</div>
+      <div class="w-[511.40px] h-[47px] left-[40px] top-[69.80px] absolute text-white text-[35px] font-bold leading-9">Affordable Housing Mortgage</div>
+      <div class="w-[519.42px] h-[18px] left-[40px] top-[141.80px] absolute">
+        <div class="w-[103.79px] h-[23px] left-0 top-[-3px] absolute text-white text-[17px] font-normal leading-[18px]">View Project</div>
+        <div class="left-[114.09px] top-[2.50px] absolute justify-start items-start inline-flex">
+          <div class="w-3.5 h-[13px] relative"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="w-[1000px] h-[400px] left-0 top-[1395px] absolute">
+    <div class="w-[560.58px] h-[400px] left-0 top-0 absolute border border-white">
+      <img class="w-[554.58px] h-[394px] left-[3px] top-[3px] absolute border-l border-r border-t border-b border-white" src="../../img/mapmd.png" />
+    </div>
+    <div class="w-[569.42px] h-[235.80px] left-[430.58px] top-[82.09px] absolute bg-black">
+      <div class="w-[134.45px] h-[23px] left-[40px] top-[37px] absolute text-purple-500 text-lg font-bold uppercase leading-[18px] tracking-[4px]">AppyHour</div>
+      <div class="w-[487.40px] h-[83px] left-[40px] top-[69.80px] absolute text-white text-4xl font-bold leading-9">Find the best Happy Hours in Washington DC</div>
+      <div class="w-[519.42px] h-[18px] left-[40px] top-[177.80px] absolute">
+        <div class="w-[103.79px] h-[23px] left-0 top-[-3px] absolute text-white text-[17px] font-normal leading-[18px]">View Project</div>
+        <div class="left-[114.09px] top-[2.50px] absolute justify-start items-start inline-flex">
+          <div class="w-3.5 h-[13px] relative"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="w-[100vw] h-[744.39px] left-0 top-[2088px] absolute  lg:hidden hidden md:block bg-black">
     <div class="w-[870.39px] h-[744.39px] relative left-[16%]">
       <div class="pb-[13.39px] left-0 top-[159px] absolute flex-col justify-start items-start gap-[9px] inline-flex">
         <div class="pr-[240.63px] pb-[0.78px] justify-start items-start inline-flex">
@@ -192,6 +263,10 @@
 
 
 
+<div class="w-[100vw] h-[744.39px] left-0 top-[2088px] absolute  hidden md:block bg-black">
+
+
+</div>
 
 </template>
 
