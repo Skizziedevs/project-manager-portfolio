@@ -2,6 +2,9 @@
 
 </script>
 <template >
+
+
+<div class="overflow-x-hidden">
     <div class="hero mt-12 pb-[800px]  mx-auto md:hidden">
     <div class="w-[351px]  relative">
   <div class="w-[351px] pb-[65px] left-0 top-[70px] ">
@@ -291,7 +294,7 @@ that delight and inspire people.
 
 
     <div>
-        <div class="w-full overflow-hidden h-[430.59px] relative bg-black md:hidden">
+        <div class="w-[100vw] overflow-hidden h-[430.59px] relative bg-black md:hidden">
   <div class="w-[351px] mx-auto h-[471.59px] left-[19.50px] pt-10 top-[43px] ">
     <div class="w-[351px] h-[142.80px] left-0 space-y-[20px] mb-[80px] top-0 ">
       <div class="w-[97.65px] h-[29px] left-0 top-[-4px]  gradient text-[22px] font-bold uppercase leading-snug tracking-[4px]">Blogs</div>
@@ -772,6 +775,7 @@ that delight and inspire people.
   </div>
 </div>
 
+</div>
 
 
 <div class="w-[100vw] h-[786px] relative bg-black">
