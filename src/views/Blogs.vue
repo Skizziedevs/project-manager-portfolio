@@ -5,12 +5,12 @@
 <template>
 <a href="/News">
 <div class="w-[351px] mx-auto my-[101px] md:flex md:w-[870px] md:my-[150px] lg:w-[1000px]">
-  <img src="../../../img/buildblog.png" class="h-[250px] md:w-[332px] md:h-[319px] object-fill" alt="">
+  <img src="../../img/buildblog.png" class="h-[250px] md:w-[332px] md:h-[319px] object-fill" alt="">
   <div class="w-[351px] pl-[20px] bg-black h-[142px] md:pl-[70px]  md:h-[319px]  md:w-[538px]">
     <p class="gradient date pt-[22px] pb-[16px] md:pt-[71px] md:pb-[14px]">April 11, 2022</p>
     <h2 class="title pb-[19.5px] md:w-[383px] md:pb-[28px]">Goodbye New York City</h2>
     <div class="flex">
-       <p class="link pr-2">View Blog Post </p><img src="../../../img/ic.png" alt="">
+       <p class="link pr-2">View Blog Post </p><img src="../../img/ic.png" alt="">
     </div>
    
   </div>

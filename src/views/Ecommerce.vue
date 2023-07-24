@@ -6,7 +6,7 @@
 <div class="">
   <div class="w-[351px] mx-auto pt-[37px] md:w-[800px]">
 <h1 class="header md:pl-[176px] pt-[52px]">Ecommerce Seller</h1>
-<img src="../../../img/workers.png" class="mt-[100px]" alt="">
+<img src="../../img/workers.png" class="mt-[100px]" alt="">
   </div>
   <div class="w-[351px] mx-auto mt-[48px] md:w-[800px]">
     <div class="space-y-[28px]">

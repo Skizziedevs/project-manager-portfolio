@@ -10,7 +10,7 @@
    </div>
    <div class="mx-auto w-[351px] md:w-[870px] md:flex ">
     <div>
-    <img src="../../../img/footerlogo.png" class="pb-[12px]" alt="">
+    <img src="../../img/footerlogo.png" class="pb-[12px]" alt="">
     <p class="email">justintsn10@gmail.com</p>
     </div>
     <div class="h-[65px] mt-[84px] flex md:hidden">

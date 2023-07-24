@@ -6,36 +6,36 @@
 <div class="w-[351px] mt-[71px] md:mt-[60px] lg:mt-[63px]  mx-auto md:w-[870px]">
   <a href="#">
   <div class=" w-[351px] md:w-[870px] lg:w-[1000px]">
-  <img src="../../../img/workin.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
+  <img src="../../img/workin.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
   <div class="w-[295px] h-[141px] relative bottom-[70px] pl-[15px] left-[56px] md:w-[504px] md:h-[235px] md:left-[365px] md:bottom-[317px] md:pl-[40px] lg:left-[440px] bg-black">
   <p class="title gradient pt-[22px] pb-[7.8px] md:pt-[41px] md:pb-[10.8px]">Rouse Appraisals</p>
   <h2 class="description w-[234px] pb-[8px] md:pb-[22px] md:w-[421px] ">Construction Equipment Analysis and Reporting</h2>
    <div class="flex">
-       <p class="link pr-2">View Blog Post </p><img src="../../../img/ic.png" alt="">
+       <p class="link pr-2">View Blog Post </p><img src="../../img/ic.png" alt="">
     </div>
 </div>
   </div>
 </a>
  <a href="/ecommerce">
   <div class=" w-[351px] md:w-[870px] lg:w-[1000px]">
-  <img src="../../../img/workers.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
+  <img src="../../img/workers.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
   <div class="w-[295px] h-[141px] relative bottom-[70px] pl-[15px] left-[56px] md:w-[504px] md:h-[235px] md:left-[365px] md:bottom-[317px] md:pl-[40px] lg:left-[440px] bg-black">
   <p class="title gradient pt-[22px] pb-[7.8px] md:pt-[41px] md:pb-[10.8px]">Ecommerce Seller</p>
   <h2 class="description w-[234px] pb-[8px] md:pb-[22px] md:w-[421px] ">Supporting Local Communities</h2>
    <div class="flex">
-       <p class="link pr-2">View Blog Post </p><img src="../../../img/ic.png" alt="">
+       <p class="link pr-2">View Blog Post </p><img src="../../img/ic.png" alt="">
     </div>
 </div>
   </div>
  </a>
 
  <div class=" w-[351px] md:w-[870px] lg:w-[1000px]">
-  <img src="../../../img/house.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
+  <img src="../../img/house.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
   <div class="w-[295px] h-[141px] relative bottom-[70px] pl-[15px] left-[56px] md:w-[504px] md:h-[235px] md:left-[365px] md:bottom-[317px] md:pl-[40px] lg:left-[440px] bg-black">
   <p class="title gradient pt-[37px] pb-[7.8px] md:pt-[41px] md:pb-[10.8px]">MH Advantage</p>
   <h2 class="description w-[234px] pb-[8px] md:pb-[22px] md:w-[421px] lg:w-[551px]">Affordable Housing Mortgage</h2>
    <div class="flex">
-       <p class="link pr-2">View Blog Post </p><img src="../../../img/ic.png" alt="">
+       <p class="link pr-2">View Blog Post </p><img src="../../img/ic.png" alt="">
     </div>
 </div>
   </div>
@@ -43,12 +43,12 @@
 
 
    <div class=" w-[351px] md:w-[870px] lg:w-[1000px]">
-  <img src="../../../img/rap.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
+  <img src="../../img/rap.png" class="w-[309px] md:w-[495px] lg:w-[554px]" alt="">
   <div class="w-[295px] h-[141px] relative bottom-[70px] pl-[15px] left-[56px] md:w-[504px] md:h-[235px] md:left-[365px] md:bottom-[317px] md:pl-[40px] lg:left-[440px] bg-black">
   <p class="title gradient pt-[22px] pb-[7.8px] md:pt-[41px] md:pb-[10.8px]">Appy hour</p>
   <h2 class="description w-[234px] pb-[8px] md:pb-[22px] md:w-[421px] lg:w-[551px]">Find the best Happy Hours in Washington DC</h2>
    <div class="flex">
-       <p class="link pr-2">View Blog Post </p><img src="../../../img/ic.png" alt="">
+       <p class="link pr-2">View Blog Post </p><img src="../../img/ic.png" alt="">
     </div>
 </div>
   </div>

@@ -10,11 +10,11 @@
   <div class="pt-[60px] my-auto md:flex-col-reverse"> 
     <h1 class="header pb-[26px]">Goodbye New York City</h1>
     <p class="date">April 11, 2022  . 5 minuites</p>
-    <img src="../../../img/down.png" class="relative hidden md:block top-[172px]" alt="">
+    <img src="../../img/down.png" class="relative hidden md:block top-[172px]" alt="">
     </div>
-    <img src="../../../img/build.png" class="pt-[60px] md:hidden" alt="">
-    <img src="../../../img/buildmd.png" class="pt-[60px] pl-[130px] w-[600px] md:block hidden lg:hidden" alt="">
-        <img src="../../../img/buildlg.png" class="pt-[60px] ml-[86px] w-[600px] lg:block hidden" alt="">
+    <img src="../../img/build.png" class="pt-[60px] md:hidden" alt="">
+    <img src="../../img/buildmd.png" class="pt-[60px] pl-[130px] w-[600px] md:block hidden lg:hidden" alt="">
+        <img src="../../img/buildlg.png" class="pt-[60px] ml-[86px] w-[600px] lg:block hidden" alt="">
  </div>
  <div class="w-[351px] mx-auto md:w-[800px]">
   <h2 class="subheading pt-[98px] pb-[24px]">To the best city on earth</h2>
