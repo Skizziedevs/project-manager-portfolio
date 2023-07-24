@@ -1,15 +1,15 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Works from '../pages/Works.vue'
-import News from '../pages/News.vue'
-import Ecommerce from '../pages/Ecommerce.vue'
-import Cv from '../pages/Cv.vue'
-import Option from '../components/Option.vue'
+import Projects from '../views/Projects.vue'
+import News from '../views/News.vue'
+import Ecommerce from '../views/Ecommerce.vue'
+import Home from '../views/Landing-page.vue'
+import Blog from '../views/Blogs.vue'
 const routes =[
-    {path: '/', component: Cv},
-    {path: '/works', component: Works},
-    {path: '/ecommerce', component: News },
-    {path: '/cv', component: Ecommerce},
-    {path: '/options', component: Option}
+    {path: '/', component: Home},
+    {path: '/Projects', component: Projects},
+    {path: '/News', component: News },
+    {path: '/Ecommerce', component: Ecommerce},
+    {path: '/Blogs', component: Blog}
 
 ]
 

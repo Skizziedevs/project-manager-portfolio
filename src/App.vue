@@ -1,12 +1,12 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import News from './pages/News.vue'
+import Navbar from './components/Navbar.vue'
+import Footer from './components/Footer.vue'
 </script>
 
 <template>
-<hello-world />
+<Navbar />
 <router-view/>
-
+<Footer />
 </template>
 
 <style scoped>
